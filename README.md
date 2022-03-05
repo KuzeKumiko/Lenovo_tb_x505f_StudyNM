@@ -20,3 +20,5 @@ Lenovo Tab M10 HD TB-X505Fのいくつかのリソース
 [Resurrection Remix 安卓10 构建:RobotHanzo](https://sourceforge.net/projects/resurrection-remix-q-gsi/files/)
 
 **刷入前务必用Magisk修补boot 否则卡第一屏**
+
+`2022年3月5日 更新几个AIDE写的小程序和联想掉管控模块（th7）`
