@@ -27,9 +27,9 @@ miaR-联想mia管控清空应用白名单（可改包名）[原作者](https://g
 
 msykhackR-向美师优课发送SN广播 使其登录他人账号/其他设备登录（改包名无效）
 
-rcR-LinspirerMDM解控 [功能同此](https://github.com/YoungToday/rc)
+rcR-LinspirerMDM解控（可改包名） [功能同此](https://github.com/YoungToday/rc)
 
 `2022年3月5日 更新几个AIDE写的小程序和联想掉管控模块（th7）`
 
-`2022年3月12日 小程序暂时闭源 增加tb-x505f安卓10设置替换模块（th7）`
+`2022年3月12日 小程序暂时闭源 增加tb-x505f安卓10设置替换模块（th7） 想要小程序源码发issue`
 
