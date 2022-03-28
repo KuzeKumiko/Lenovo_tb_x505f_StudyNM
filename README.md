@@ -33,3 +33,4 @@ rcR-LinspirerMDM解控（可改包名） [功能同此](https://github.com/Young
 
 `2022年3月12日 小程序暂时闭源 增加tb-x505f安卓10设置替换模块（th7） 想要小程序源码发issue`
 
+`2022年3月28日 更新获取密码 计算动态密码请发issus`
